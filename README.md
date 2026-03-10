@@ -1,5 +1,19 @@
 # 💫 About Me:
-🚀 About Me<br><br>🔭 I’m currently working on full-stack web applications using the MERN stack<br><br>👯 I’m looking to collaborate on frontend (React) and full-stack web projects<br><br>🤝 I’m looking for help with scaling applications, authentication, and deployment<br><br>🌱 I’m currently learning advanced React, backend optimization, and REST API best practices<br><br>💬 Ask me about HTML, CSS, JavaScript, React, Node.js, Express, MongoDB<br><br>⚡ Fun fact: I love converting simple designs into pixel-perfect responsive websites 😄
+
+🚀 About Me
+
+🔭 I’m currently building **scalable web applications using Django and Django REST Framework**
+
+👯 I’m looking to collaborate on **backend and full-stack projects using Django, React, and REST APIs**
+
+🤝 I’m looking for help with **application scaling, authentication systems, API design, and deployment**
+
+🌱 I’m currently learning **advanced Django concepts, backend optimization, REST API architecture, and cloud deployment**
+
+💬 Ask me about **Python, Django, Django REST Framework, HTML, CSS, JavaScript, React, and backend development**
+
+⚡ Fun fact: I enjoy turning **complex backend logic into clean, efficient APIs and building responsive web applications** 😄
+
 
 
 # 💻 Tech Stack:
